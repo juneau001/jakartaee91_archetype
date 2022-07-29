@@ -4,7 +4,7 @@
     <groupId>io.github.juneau001</groupId>
     <artifactId>webapp-jakartaee91</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <name>Jakarta EE 9.1 WAR Archetype</name>
     <description>Jakarta EE 9.1 Maven Archetype</description>
     <url>http://maven.apache.org</url>
